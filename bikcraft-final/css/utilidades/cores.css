@@ -1,0 +1,76 @@
+/*utilitario: fornece uma classe de utilitários de baixo nível para construir designs personalizados em seu arquivo HTML. As classes de utilitários são nomeadas de acordo com a finalidade pretendida, de forma que sejam facilmente compreensíveis para a pessoa comum*/
+:root {
+  --c12: #000;
+  --c11: #111;
+  --c10: #2e2e2e;
+  --c9: #404040;
+  --c8: #595959;
+  --c7: #717171;
+  --c6: #9c9c9c;
+  --c5: #b2b2b2;
+  --c4: #ccc;
+  --c3: #dedede;
+  --c2: #ededed;
+  --c1: #f7f7f7;
+  --c0: #fff;
+  --c-a1: #ffbb00;
+  --c-a2: #e4a30b;
+  --c-a3: #a66f00;
+  --c1-a4: #664400;
+  --c1-a5: #332200;
+}
+/*variavel permite que se crie valor CSS que poderá ser alterado em diferentes lugares da folha de estilos alterando-se o valor da variável em um só lugar.*/
+.c0 {
+  color: #fff;
+}
+.c1 {
+  color: #f7f7f7;
+}
+.c2 {
+  color: #ededed;
+}
+.c3 {
+  color: #dedede;
+}
+.c4 {
+  color: #ccc;
+}
+.c5 {
+  color: #b2b2b2;
+}
+.c6 {
+  color: #9c9c9c;
+}
+.c7 {
+  color: #717171;
+}
+.c8 {
+  color: #595959;
+}
+.c9 {
+  color: #404040;
+}
+.c10 {
+  color: #2f2f2f;
+}
+.c11 {
+  color: #111;
+}
+.c12 {
+  color: #000;
+}
+.c-a1 {
+  color: #ffbb00;
+}
+.c-a2 {
+  color: #e4a30b;
+}
+.c-a3 {
+  color: #a66f00;
+}
+.c-a4 {
+  color: #664400;
+}
+.c-a5 {
+  color: #332200;
+}
